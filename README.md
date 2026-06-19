@@ -10,7 +10,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Computer Science & Engineering student at <strong>Universidade Nova de Lisboa</strong>, finishing my bachelor's degree in 2025.<br>
+  Computer Science & Engineering student at <strong>Universidade Nova de Lisboa</strong>, finishing my bachelor's degree in 2026.<br>
   Currently an <strong>AI-Driven Web Development Intern at Innovagency</strong>, researching and implementing AI tools for autonomous web development.<br>
   Passionate about <strong>Artificial Intelligence</strong> — particularly Generative AI, LLMs, and model architecture.<br>
   Looking to deepen my knowledge in AI modelling: training, fine-tuning, and building intelligent systems from the ground up.<br><br>
