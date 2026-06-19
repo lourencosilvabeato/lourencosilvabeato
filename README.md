@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="left">
   Computer Science & Engineering student at <strong>Universidade Nova de Lisboa</strong>, finishing my bachelor's degree in 2026.<br>
