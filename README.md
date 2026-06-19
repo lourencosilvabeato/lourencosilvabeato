@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Lourenço Beato</h1>
-<h3 align="center">Computer Science Engineer | AI focused</h3>
+<h3 align="center">Computer Science Student | AI focused</h3>
 
 <p align="center">
   <a href="mailto:lourenco.silva.beato@gmail.com">📫 lourenco.silva.beato@gmail.com</a>
@@ -7,9 +7,9 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 
-<p align="center">
+<p align="left">
   Computer Science & Engineering student at <strong>Universidade Nova de Lisboa</strong>, finishing my bachelor's degree in 2026.<br>
   Currently an <strong>AI-Driven Web Development Intern at Innovagency</strong>, researching and implementing AI tools for autonomous web development.<br>
   Passionate about <strong>Artificial Intelligence</strong> — particularly Generative AI, LLMs, and model architecture.<br>
@@ -39,11 +39,27 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <!-- Frameworks -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
 
   <!-- Tools & DevOps -->
@@ -55,11 +71,6 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <!-- Mobile -->
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
   </a>
 
 </p>
