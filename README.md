@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Lourenço Beato</h1>
-<h3 align="center">Associate AI Engineer | Computer Science Engineer</h3>
+<h3 align="center">Computer Science Engineer | AI & LLMs</h3>
 
 <p align="center">
   <a href="mailto:lourenco.silva.beato@gmail.com">📫 lourenco.silva.beato@gmail.com</a>
@@ -11,8 +11,8 @@
 
 <p align="left">
   Computer Science & Engineering graduate from <strong>Universidade Nova de Lisboa (NOVA FCT)</strong>.<br>
-  Currently working as an <strong>Associate AI Engineer</strong>, designing and shipping LLM-powered features end to end — RAG pipelines, tool-calling agents, evaluation harnesses and guardrails — in production.<br>
-  Previously an <strong>AI-Driven Web Development Intern at Innovagency</strong>, where I benchmarked AI coding agents and built a full-stack platform entirely through AI tooling.<br>
+  Hands-on experience building <strong>LLM-powered applications</strong> end to end — RAG pipelines, tool-calling agents, evaluation harnesses and guardrails.<br>
+  Benchmarked <strong>AI coding agents</strong> (Claude Code, Codex, Cursor, GitHub Copilot) and built a full-stack web platform entirely through AI tooling, acting as architect and prompt engineer.<br>
   Passionate about <strong>Artificial Intelligence</strong> — Generative AI, LLMs and model architecture — and increasingly about how AI shapes <strong>people and society</strong>.<br>
   Planning an international master's degree for 2027 at the intersection of AI and society.<br><br>
   🌍 Based in Lisbon, Portugal &nbsp;|&nbsp; 🎓 Erasmus+ in Dresden, Germany &nbsp;|&nbsp; ✈️ 25+ countries visited &nbsp;|&nbsp; 🗣️ PT · EN · ES · IT
