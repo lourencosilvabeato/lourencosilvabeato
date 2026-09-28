@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Lourenço Beato</h1>
-<h3 align="center">Computer Science Student | AI focused</h3>
+<h3 align="center">Associate AI Engineer | Computer Science Engineer</h3>
 
 <p align="center">
   <a href="mailto:lourenco.silva.beato@gmail.com">📫 lourenco.silva.beato@gmail.com</a>
@@ -10,11 +10,12 @@
 <h3 align="center">About Me</h3>
 
 <p align="left">
-  Computer Science & Engineering student at <strong>Universidade Nova de Lisboa</strong>, finishing my bachelor's degree in 2026.<br>
-  Currently an <strong>AI-Driven Web Development Intern at Innovagency</strong>, researching and implementing AI tools for autonomous web development.<br>
-  Passionate about <strong>Artificial Intelligence</strong> — particularly Generative AI, LLMs, and model architecture.<br>
-  Looking to deepen my knowledge in AI modelling: training, fine-tuning, and building intelligent systems from the ground up.<br><br>
-  🌍 Based in Lisbon, Portugal &nbsp;|&nbsp; 🎓 Erasmus+ in Dresden, Germany &nbsp;|&nbsp; ✈️ 25+ countries visited
+  Computer Science & Engineering graduate from <strong>Universidade Nova de Lisboa (NOVA FCT)</strong>.<br>
+  Currently working as an <strong>Associate AI Engineer</strong>, designing and shipping LLM-powered features end to end — RAG pipelines, tool-calling agents, evaluation harnesses and guardrails — in production.<br>
+  Previously an <strong>AI-Driven Web Development Intern at Innovagency</strong>, where I benchmarked AI coding agents and built a full-stack platform entirely through AI tooling.<br>
+  Passionate about <strong>Artificial Intelligence</strong> — Generative AI, LLMs and model architecture — and increasingly about how AI shapes <strong>people and society</strong>.<br>
+  Planning an international master's degree for 2027 at the intersection of AI and society.<br><br>
+  🌍 Based in Lisbon, Portugal &nbsp;|&nbsp; 🎓 Erasmus+ in Dresden, Germany &nbsp;|&nbsp; ✈️ 25+ countries visited &nbsp;|&nbsp; 🗣️ PT · EN · ES · IT
 </p>
 
 ---
@@ -55,6 +56,9 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
