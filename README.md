@@ -12,7 +12,7 @@
 <p align="left">
   Computer Science & Engineering graduate from <strong>Universidade Nova de Lisboa (NOVA FCT)</strong>.<br>
   Hands-on experience building <strong>LLM-powered applications</strong> end to end — RAG pipelines, tool-calling agents, evaluation harnesses and guardrails.<br>
-  Benchmarked <strong>AI coding agents</strong> (Claude Code, Codex, Cursor, GitHub Copilot) and built a full-stack web platform entirely through AI tooling, acting as architect and prompt engineer.<br>
+  Benchmarked <strong>AI coding agents</strong> (Claude Code, Codex, Cursor, GitHub Copilot) and built full-stack web platforms entirely through AI tooling, acting as architect and prompt engineer.<br>
   Passionate about <strong>Artificial Intelligence</strong> — Generative AI, LLMs and model architecture — and increasingly about how AI shapes <strong>people and society</strong>.<br>
   Planning an international master's degree for 2027 at the intersection of AI and society.<br><br>
   🌍 Based in Lisbon, Portugal &nbsp;|&nbsp; 🎓 Erasmus+ in Dresden, Germany &nbsp;|&nbsp; ✈️ 25+ countries visited &nbsp;|&nbsp; 🗣️ PT · EN · ES · IT
