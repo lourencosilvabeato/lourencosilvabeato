@@ -16,7 +16,7 @@
   I also evaluate and safeguard them, with <strong>eval harnesses</strong>, <strong>LLM-as-judge grading</strong>, <strong>guardrails</strong> (PII detection, prompt-injection defences) and <strong>LLMOps</strong> tracking.<br>
   Benchmarked <strong>AI coding agents</strong> (Claude Code, Codex, Cursor, GitHub Copilot), explored <strong>MCP</strong> and API integrations, and built full-stack web platforms entirely through AI tooling, acting as architect and validator.<br>
   Passionate about <strong>Artificial Intelligence</strong> (Generative AI, LLMs and model architecture) and increasingly about how AI systems behave and affect <strong>people and society</strong>, drawing on psychology, philosophy and political science.<br>
-  Planning an international master's degree for 2027 at the intersection of AI and society.<br><br>
+  <br>
   🌍 Based in Lisbon, Portugal &nbsp;|&nbsp; 🎓 Erasmus+ in Dresden, Germany &nbsp;|&nbsp; ✈️ 25+ countries visited &nbsp;|&nbsp; 🗣️ PT · EN · ES · IT
 </p>
 
