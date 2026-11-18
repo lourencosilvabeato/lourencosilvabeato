@@ -29,6 +29,7 @@
   <li>Microsoft: AI for Organizational Leaders</li>
   <li>Microsoft: Human Skills in the Age of AI</li>
   <li>GitHub: Career Essentials in GitHub Professional Certificate</li>
+  <li>Udemy: AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents</li>
   <li>Udemy: AI Ethics: Ethical Intelligence for 2026</li>
 </ul>
 
